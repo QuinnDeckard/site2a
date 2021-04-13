@@ -5,26 +5,25 @@ body {
 h1 {
   color: #ff3352;
   margin-left: 20px;
+  text-shadow: 2px 2px 5px #800013;
 }
+
 div {
   color:#778899
 
 }
 #Lorem {
    padding: 8px;
+   border-radius: 25px;
    background: #ffe6e9;
    height: 150px;
 }
-#rcorners1 {
-  border-radius: 25px;
-  background: #ffe6e9;
-  padding: 20px;
-  height: 150px;
+#butter {
+    padding: 8px
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    #grad {
+  background-image: linear-gradient(red, yellow);
 }
-
-#rcorners2 {
-  border-radius: 25px;
-  border: 2px solid #ffe6e9;
-  padding: 20px;
-  height: 150px;
 }

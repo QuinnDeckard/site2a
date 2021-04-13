@@ -19,11 +19,9 @@ div {
    height: 150px;
 }
 #butter {
-    padding: 8px
+    padding: 8px;
     border-radius: 25px;
+    background: #ffe6e9;
     height: 150px;
     width: 150px;
-    #grad {
-  background-image: linear-gradient(red, yellow);
-}
 }
